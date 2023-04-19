@@ -1,0 +1,113 @@
+{
+  "totalmessages": 4,
+  "messages": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "content": "Good Morning Everyone",
+      "date": "12-04-2023",
+      "author": "Vks",
+      "comments": [
+        {
+          "id": 1,
+          "content": "Very Happy Morning",
+          "author": "Azar",
+          "date": "12-04-2023"
+        },
+        {
+          "id": 2,
+          "content": "Good morning everyone",
+          "author": "Thangarasu",
+          "date": "12-04-2023"
+        },
+        {
+          "id": 3,
+          "content": "Hi! Hope its good day to everyone",
+          "author": "Karthick",
+          "date": "12-04-2023"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "content": "Just Chill in OOty",
+      "date": "13-04-2023",
+      "author": "Sriram",
+      "comments": [
+        {
+          "id": 1,
+          "content": "Nice Place",
+          "author": "Balaji",
+          "date": "13-04-2023"
+        },
+        {
+          "id": 2,
+          "content": "Try to go to Kodaikanal",
+          "author": "Ashtalakshmi",
+          "date": "13-04-2023"
+        },
+        {
+          "id": 3,
+          "content": "Cool! Its called Mountain Queen",
+          "author": "Karthick",
+          "date": "13-04-2023"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Post 4",
+      "content": "Need O+ Blood Please anyone Help",
+      "date": "14-04-2023",
+      "author": "Thiyagarasu",
+      "comments": [
+        {
+          "id": 1,
+          "content": "Please contact me at 7875432156",
+          "author": "Maridas",
+          "date": "14-04-2023"
+        },
+        {
+          "id": 2,
+          "content": "Please locate at kaviya blood bank Hosur ",
+          "author": "Stalin",
+          "date": "14-04-2023"
+        },
+        {
+          "id": 3,
+          "content": "God will help you",
+          "author": "Karthick",
+          "date": "14-04-2023"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Post 5",
+      "content": "Lets Start a play! Coffee or Tea",
+      "date": "15-04-2023",
+      "author": "Lakshmi",
+      "comments": [
+        {
+          "id": 1,
+          "content": "East or west coffe is best",
+          "author": "Subashini",
+          "date": "15-04-2023"
+        },
+        {
+          "id": 2,
+          "content": "Tea kada Raja nanga",
+          "author": "Thangarasu",
+          "date": "15-04-2023"
+        },
+        {
+          "id": 3,
+          "content": "Stress, Pain, Happy, Sad always look for tea",
+          "author": "vidin",
+          "date": "15-04-2023"
+        }
+      ]
+    }
+  ]
+}
